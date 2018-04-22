@@ -1,0 +1,10 @@
+.margin-bottom-2 {
+    margin-bottom: 2rem;
+}
+.cover-photo {
+    max-height: 30rem;
+    overflow: hidden;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
